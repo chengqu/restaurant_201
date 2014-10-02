@@ -1,5 +1,22 @@
 ##Restaurant Project Repository
+###Description
+An agent-based application that simulates real restaurant interactions.
+Add customers by entering name and clicking add.
+Add waiters by entering name and clicking add. 
+Select hungry to let customer order food.
+The series of interactions will happen as following:
+1. Host calls waiter to bring in a customer
+2. The waiter sits a customer
+3. The waiter takes the order.
+4. The cook cooks the order and hand back in waiter
+5. The waiter serves the food
+6. The customer eats and calls for the check
+7. The waiter brings the check from cashier to customer
+8. The customer pays and leaves.
 
+The indication of each interaction will be displayed in the console. 
+
+Have fun!
 ###Student Information
   + Name: Cheng Qu
   + USC Email: chengqu@usc.edu
