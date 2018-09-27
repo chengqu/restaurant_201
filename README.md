@@ -1,4 +1,4 @@
-##Restaurant Project Repository
+###Restaurant Project Repository
 ###Description
 An agent-based application that simulates real restaurant interactions.
 Add customers by entering name and clicking add.
